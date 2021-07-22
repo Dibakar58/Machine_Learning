@@ -1,3 +1,3 @@
 # Machine_Learning
 The repository contains a number of machine learning algorithms and resources that one is likely to encounter while learning ML. As the majority of novices avoid mathematics since it is quite difficult and instead rely on libraries, I had tried to  <b> implemented different machine learning algorithms from scratch </b>, which had given me a deeper understanding of the mathematics involved in it.  The code is written in Python and is properly documented. The basics of Open-CV are also discussed. Several interesting projects are also available to test the acquired knowledge. In addition, proper visualization techniques are also provided.
-I you want any help or have any doubts feel free to contact me .
+If you want any help or have any doubts feel free to contact me .
